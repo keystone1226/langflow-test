@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V8
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.next/
+
+# Env
+.env
+.env.local
+
+# 분리된 프로젝트 잔재
+portfolio/
